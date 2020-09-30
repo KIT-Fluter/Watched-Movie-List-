@@ -14,14 +14,14 @@ class _Footer extends State<Footer> {
 
   static const _footerIcons = [
     Icons.movie,
-    Icons.format_list_numbered,
-    Icons.settings
+    Icons.format_list_numbered, //今回は見た目だけ
+    Icons.settings //今回は見た目だけだと思う
   ];
 
   static const _footerItemNames = [
     'ウォッチリスト',
-    'ランキング',
-    '設定',
+    'ランキング', //今回は見た目だけ
+    '設定', //今回は見た目だけだと思う
   ];
 
   @override
